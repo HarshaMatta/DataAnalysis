@@ -1,0 +1,5 @@
+A. Generate a CSV file that contain the top 100 movies based on their ratings.
+   This should have fields, Rank (1-100), Movie Id, Title, Average Rating. Rank 1 is the most popular movie.
+
+B. Generate a CSV file containing list of unique Genres and no of movies under each genres
+   CSV file should contain 2 columns, ie: Genres, No of Movies. Column headers are not required.
